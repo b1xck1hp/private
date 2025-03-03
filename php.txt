@@ -1,0 +1,5 @@
+https://guestwifi.corebridgefinancial.com/guest/auth_login.php
+https://guestwifi.corebridgefinancial.com/guest/auth_login.php?target=%2Fguest%2Fguest_index.php
+https://guestwifi.corebridgefinancial.com/guest/auth_login.php?target=%2Fguest%2Fmdps_index.php
+https://guestwifi.corebridgefinancial.com/guest/guest_index.php
+https://guestwifi.corebridgefinancial.com/guest/mdps_index.php

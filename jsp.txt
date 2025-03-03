@@ -1,0 +1,5 @@
+https://optout.life2.corebridgefinancial.com/life/ca-optout-customer-site/optout/login.jsp
+https://optout.life2.corebridgefinancial.com/optout/index.jsp
+https://uatoptout.life2.corebridgefinancial.com/life/ca-optout-customer-site/optout/login.jsp
+https://uatoptout.life2.corebridgefinancial.com/optout/index.jsp
+https://www.valic.com/web/Webpages/Common/OpenPDF.jsp?ty=3&catid=
